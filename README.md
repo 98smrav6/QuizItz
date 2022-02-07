@@ -14,12 +14,12 @@
 - questions.js
 - scores.
 
-**Examples of the Quiz**
+**Examples of the Quiz:**
 
-Main page of the Quiz.
+The main page of the Quiz.
 ![Capture1](https://user-images.githubusercontent.com/89051027/152871123-c207f5f7-5d2b-44e3-84a4-4c26a51e032d.PNG)
 
-How the questions will be displayed as.
+How questions will be displayed as.
 ![Capture2](https://user-images.githubusercontent.com/89051027/152871201-ab976ddc-1538-40cd-8073-318b4018a112.PNG)
 
 End of the quiz, allowing user to enter in their intials to save score.

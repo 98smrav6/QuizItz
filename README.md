@@ -1,6 +1,6 @@
 **Whats the purpose of this?**    
 
-  A timed quiz for students that can store high scores and compare to other peers.
+  A timed quiz for students that can store their high scores and compare to other peers.
   
 **Built With:**
 - HTML

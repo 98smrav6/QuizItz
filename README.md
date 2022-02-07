@@ -1,4 +1,4 @@
-**Whats the purpose of this?**    
+**What's the purpose of this?**    
 
   A timed quiz for students that can store their high scores and compare to other peers.
   
@@ -15,6 +15,7 @@
 - scores.
 
 **Examples of the Quiz**
+
 Main page of the Quiz.
 ![Capture1](https://user-images.githubusercontent.com/89051027/152871123-c207f5f7-5d2b-44e3-84a4-4c26a51e032d.PNG)
 
